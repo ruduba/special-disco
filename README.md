@@ -44,4 +44,4 @@
     10. added main tag
     11. added footer tag
 
-    <sub>finished until lesson 3</sub>
+    <sub> finished until lesson 3 </sub>
