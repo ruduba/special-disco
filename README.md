@@ -45,3 +45,34 @@
     11. added footer tag
 
     > finished until lesson 3
+
+### 7th Feb, 2026
+    Notes:
+    1. anchor tag <a> is used to connect to link or url
+    2. URL: Uniform Resource Locator, eg: https://example.com
+    3. Every tag can have some attributes, such as "href" for a, or style. The attribute will have some value.
+    4. Types of CSS:
+        a. Inline CSS: when style is written inside tag itself
+        b. Embedded CSS
+        c. External CSS
+
+    Tasks:
+    1. Created new HTML page
+    2. Added header, footer, and main
+    3. Added background color
+    4. created  ol for destinations
+    5. Used sections tags
+    6. added p tag for info about booking tickets (used singapore airlines for ref)
+    7. Added button for "book now"
+    8. added div and nested sections in it
+    9. customized div width with inline css, used bg color to notice the difference
+    10. customised p with custom font and text alignment (inline css)
+    11. added anchor tags to ol to link (to all list elements)
+    12. linked bangalore list element to google.com
+    13. Created html form for passenger details
+    14. put form in div
+    15. added inline styling to form div
+    16. added label and inserted the input inside it
+    17. added button to form
+    18. Added different inputs, like text, email, password
+
