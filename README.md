@@ -76,3 +76,69 @@
     17. added button to form
     18. Added different inputs, like text, email, password
 
+### 8th Feb, 2026
+    Notes:
+    1. images <img>, has attribute of src and alt 
+        a. src: where image comes from (path)
+        b. alt: if image not loaded, alt text will be shown
+        c: style: the styling for the image
+        4. title: shows up on hover like tooltip
+    2. figure
+    2. figcaption
+    4. details
+    5. dl, dd
+    
+
+    Tasks:
+    1. adding image to div
+    2. styling the image
+    3. putting image into <figure>
+    4. added figcaption tag
+    5. added another figure with image and figcaption
+    6. added details <details>
+    7. added summary inside detail <summary>
+    8. added <p> inside detail
+    9. added another details tag for insurance
+    10. added input checkbox for insurance
+    11. changed it to radio
+    12. added names (name attibute) to radio buttons to enable to select only 1 at once
+    13. added dl tag
+    14. nested dd tag inside dl
+
+## Module 3
+### 8th Feb, 2026
+
+    Notes:
+    1. CSS3: latest version, full form: Cascading style sheets
+    2. why cascading: flowing accross the pages
+    3. syntax: uses curly braces, colon, and semicolon
+    4. selectors: an html element can become a selector, same for classname
+    5. property: style attributes are properties
+    6. value: the value assigned to the property
+    7. CSS can be used to change text, font, background, border
+    8. lot of control over: height, display, width, margin, template layout, list and markers, animations, transitions
+    9. UI/UX: user interface and user experience
+    10. Types of CSS:
+        a. Inline CSS: when style is written inside tag itself
+        b. Embedded CSS
+        c. External CSS: link the css file in head
+    11. Types of selectors
+        a. element: group multiple elements using commas
+        2. id:
+        3. class:
+    12. * (universal selector) applies styling to entire page
+
+    Tasks:
+    1. linked the css in head
+    2. styled h1 color
+    3. added p and grouped it with the h1 to style both
+    > CSS Task
+        a. added nav
+        b. added ul
+        c. added li
+        d. added h2 to nav
+        e. styled *
+        f. styled body, text aligned
+        g. fetched google fonts api for roboto
+        h. styled nav, added grey border
+
