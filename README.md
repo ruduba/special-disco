@@ -107,7 +107,6 @@
 
 ## Module 3
 ### 8th Feb, 2026
-
     Notes:
     1. CSS3: latest version, full form: Cascading style sheets
     2. why cascading: flowing accross the pages
@@ -142,3 +141,54 @@
         g. fetched google fonts api for roboto
         h. styled nav, added grey border
 
+### 9th Feb, 2026
+    Notes:
+        1. rem is a relatibe unit which means that all values that use it change when the rott's font size changes.
+            For eg, 1rem means 1xroot font size
+            For most browsers the default value is 16px. this means if the root element is 16px, an element with the value 1rem will also equal 16px
+        2. @keyframes rule:
+            a. the @keyframes rule specifies the animation code
+            b. the animation is created by gradually changing from one set of css styles to another
+            c. during animation you can change the set of CSS styles many times
+            d. specify when the style change will happen in percent or with the keywords
+                + "from"
+                + "to"
+                which is the same as 0% and 100%, where 0 is start and 100 is end
+            eg: @keyframes fadeIn {
+                0% {opacity: 0;}
+                100% {opacity: 1;}
+                }
+        3. animation: rulename animation_timing repeat_cycle
+            eg: animation: fadeIn 5s infinite
+    Tasks:
+        > CSS Task
+            a. added border radius to border
+            b. changed the font size
+            c. changed the div width to 600px
+            d. added line height
+            e. styled h2 with padding
+            f. gave bg color to h2, with rounded corners
+            g. removed the list style
+            h. added border to list items
+            i. removed anchor tag underline styling
+            j. used pseudoclass styling on <a> tag
+            k. added on hover styling on list items
+            l. added styling to li last child
+            m. added airport links to the anchor tags
+
+        > Animation using CSS rules task
+            a. added h1, div, p tags with content
+            b. changed font family
+            c. added margin left and right
+            d. added padding
+            e. changed the body background color
+            f. created a fade in opacity keyframes rule
+            g. created a fade-in-element class, changed body color
+            h. assigned class to div
+            i. added border radius and border
+            j. added easing to animation
+            k. i added my own animation to the fadeIn
+            l. copied the div to create new animation
+            m. added button
+            n. added sliding keyframe rule
+            o. added rule to button via new class
