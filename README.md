@@ -192,3 +192,32 @@
             m. added button
             n. added sliding keyframe rule
             o. added rule to button via new class
+
+# Module 4
+### 10th Feb, 2026
+    Bootstrap
+    Notes:
+        1. Bootstrap: Collection of predefined css classes which provide highly effective look to the page
+        2. CDN: Content Delivery Network
+        3. Just by adding CDNs, we can start using Bootstrap
+        4. We only need to give the necessary class name to the tag
+    Tasks:
+        1. Added few buttons
+        2. Added various bootstrap classes to the buttons
+        3. Created a div for bootstrap card inside section
+        4. added image placeholder
+        5. added another card
+        6. added table
+        7. populated with rows
+        8. added bootstrap class to the table
+        9. used bootstrap card styling
+        10. used bootstrap grid styling
+        11. aligned cards in grid manner
+        12. added placeholder images and text to all cards
+        13. added <header> <footer>
+        14. added navbar component from bootstrap
+        15. added heading <h1> with bootstrap class
+        16. Added footer from bootstrap
+
+
+        
