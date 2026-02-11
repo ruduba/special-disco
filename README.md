@@ -220,4 +220,25 @@
         16. Added footer from bootstrap
 
 
-        
+### 11th Feb, 2026
+    React
+    Notes:
+        1. Installations: React, create-react-app cmd
+        2. Node.js: An open soruce and cross platform javascript runtime environment, It is a populat took for almost any kind of project
+        3. nodejs is basically the backenc or server for javascript based applications using advanced javascript libraries
+        4. npm: node package manager
+        5. it is a command used to install various commands
+        6. localhost = computer is the server
+        7. 3000 is port number
+        8. npm start to start dev server
+        9. CTRL+C to stop the server
+        10. you may need to press ctrl+c couple of times if your command prompt does not respond
+    Task:
+        1. Go to website nodejs.org
+        2. download the installer file
+        3. install nodejs
+        4. check nodejs installation properly
+        5. npm install create-react-app
+        6. created react app
+        7. run react app using npm start
+
