@@ -242,3 +242,31 @@
         6. created react app
         7. run react app using npm start
 
+### 12th Feb, 2026
+    Notes:
+        1. node_modules
+        2. public
+        3. src
+        4. react is a frontend dev framework.
+        5. therefore we have html, css, ans js files
+        6. according to the SPA approach, the entire project has only one index file (single page approach)
+        7. src: contains components
+        8. App component is created by default
+        9. When we want to transfer out project on some other systems, we can just share the src folder and avoid sharing node_modules
+        10. Always component name should start with capital letter
+        11. name of component and function should be same
+        12. App.js will be referred by index.js, after component import, then connected with index.html
+        13. html has div with id root
+        14. JSX: javascript xml. 
+        15. in return block, we not only have the html code, but we also have js code and many other references to the data and functions which finally create the desired output.
+        16. SVG: vector graphics image
+        17. return block can deliver only single element
+        18. therefore we can put all elements inside <> </> tags
+    Tasks:
+        1. run react app in vscode terminal
+        2. change <p> tag in App.js
+        3. add <h1> tag in App.js
+        4. removed all default code from App.js
+        5. added new div, h1, button, and ul
+
+
