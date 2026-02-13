@@ -270,3 +270,32 @@
         5. added new div, h1, button, and ul
 
 
+### 13th Feb, 2026
+    Notes:
+        1. JSX: it helps react to combine the markup, data, events, state management easily using javascript xml
+        2. it is  = html + js + event + data
+        3. previous versions used to have class components, they are not used anymore
+        4. we use functional components now
+        3. useState = used to set state
+        4. you can comment code by using ctrl + ?
+        5. data associated with the component is also called state
+        6. map() -> used for traversing therough the array, also part of jsx
+        7. it selects each record or item in the array at a time
+    Tasks:
+        1. deleted all previous code
+        2. added h1
+        3. created variable age using usestate
+        4. called age in the h1 tag using {}
+        5. added another variable using usestate and added it
+        6. Create a react component to display the employees in the organization and implement the logic to promote employees
+            a. create component
+            b. create employee data
+            c. display employee data in table
+        7. created components folder
+        8. created Promote.js component
+        9. added h1 to promote, added it to index.js after importing
+        10. added array employee using use state
+        11. added table
+        12. used map to map array to table
+        13. added promote button
+        14. styled the table, buttons, thead
