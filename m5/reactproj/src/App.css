@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+table{
+  border: 1px solid black;
+  margin-left: 15px;
+
+
+}
+
+th, td{
+  border: 1px solid black;
+}
+
+button{
+  background-color: gold;
+}
+
+th{
+  background-color: bisque;
+}
