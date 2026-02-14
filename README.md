@@ -242,6 +242,7 @@
         6. created react app
         7. run react app using npm start
 
+## Module 6
 ### 12th Feb, 2026
     Notes:
         1. node_modules
@@ -299,3 +300,20 @@
         12. used map to map array to table
         13. added promote button
         14. styled the table, buttons, thead
+
+## Module 7
+### 14th Feb, 2026
+    Notes:
+    Tasks:
+        1. created new variable staff
+        2. added data to staff array
+        3. added bootstrap cdn to index.html
+        4. added bootstrap btn to component
+        5. added onclick function to button
+        6. added card from bootstrap into card div
+        7. styled card div
+        8. mapped staff array to card
+        9. added image
+        10. styled image
+        11. added decription
+        12. styled the card
