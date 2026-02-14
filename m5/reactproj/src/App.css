@@ -55,3 +55,24 @@ button{
 th{
   background-color: bisque;
 }
+
+.card-div{
+  margin-left: 15px;
+  margin-right: 500px;
+  margin-top: 15px;
+}
+
+card{
+  margin-left: 50px;
+  padding: 100px;
+  width: auto;
+}
+
+img{
+  width: 256px;
+  height: 256px;
+}
+
+.card-title{
+  color: blue;
+}
