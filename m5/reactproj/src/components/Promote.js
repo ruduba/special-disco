@@ -53,7 +53,7 @@ function Promote() {
                                 <td>{index + 1}</td>
                                 <td> <strong>{emp}</strong> </td>
                                 <td>
-                                    <button className="btn btn-success" onClick={() => promoteEmp(emp)} >Promote</button>
+                                    <button className="btn btn-success">Promote</button>
                                 </td>
                             </tr>
 

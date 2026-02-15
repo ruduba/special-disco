@@ -4,12 +4,16 @@ import './index.css';
 import Promote from './components/Promote';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import UseEffectDemo from './components/UseEffectDemo';
+import PostList from './components/PostList';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-    <Promote/>
+    {/* <Promote/> */}
+    {/* <UseEffectDemo/> */}
+    <PostList/>
   </React.StrictMode>
 );
 
