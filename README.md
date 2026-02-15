@@ -317,3 +317,33 @@
         10. styled image
         11. added decription
         12. styled the card
+
+## Module 8
+### 15th Feb, 2025
+    Notes:
+        1. React Hooks:
+            - State hooks
+            - context hooks
+            - reference hooks
+            - effect hooks
+            - performance hooks
+            - resource hooks
+        2. React hooks are a feature introduced in React 16.8 to allow functional components to manage
+            state and side effects, previously only possible with class components. Hooks provide a more
+            concise and readable way to woek with stateful logic in functional components.
+            Eg: useState: allows functional components to have local state
+                useEffect: is used to perform side effects in your components, such as fetching data, 
+                    subscribing to external events etc
+                useContext: is used to consume values from react context within a functional component
+                useReducer: alternative to useState for managing more complex state logic
+        3. useEffect hook gets executed whenever the page renders
+            - any actions need to be performced during the page load such as initialising variables, or fetching data from the cloud, etc
+            - run only once, or everytime the page renders
+        4. when the page is loaded, its called rendered
+        5. to make it run only once, provide an empty array [] as the second parameter
+    Tasks:
+        1. Added new component for useeffect demo
+        2. added new variable for usestate
+        3. added the demo component to index.js
+        4. added useeffect to create a counter for page renders
+        5. created new component for posts list
