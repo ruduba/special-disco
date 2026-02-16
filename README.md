@@ -193,7 +193,7 @@
             n. added sliding keyframe rule
             o. added rule to button via new class
 
-# Module 4
+## Module 4
 ### 10th Feb, 2026
     Bootstrap
     Notes:
@@ -347,3 +347,23 @@
         3. added the demo component to index.js
         4. added useeffect to create a counter for page renders
         5. created new component for posts list
+
+## Module 9
+### 16th Feb, 2025
+    Notes:
+        1. we need to fetch the above data using the url and using the fetch funtion
+        2. asynchronous javascript
+        3. we are trying to fetch the cloud json data using url
+    Tasks:
+        1. created variable for posts
+        2. Added useeffect hook
+        3. used fetch function
+        4. added error handling
+        5. creating array to hold the json object
+        6. mapped response json to list
+        7. mapped response to table
+        8. added button, with delete handling
+        9. styled table and delete button
+        10. to remove row when button clicked
+        11. successfully implemented delete functionality
+
