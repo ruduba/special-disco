@@ -6,6 +6,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import UseEffectDemo from './components/UseEffectDemo';
 import PostList from './components/PostList';
+import Student from './components/Student';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -13,7 +14,8 @@ root.render(
     {/* <App /> */}
     {/* <Promote/> */}
     {/* <UseEffectDemo/> */}
-    <PostList/>
+    {/* <PostList/> */}
+    <Student></Student>
   </React.StrictMode>
 );
 
