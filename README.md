@@ -367,3 +367,29 @@
         10. to remove row when button clicked
         11. successfully implemented delete functionality
 
+## Module 10
+### 17th Feb, 2026
+    Notes:
+        1. React Props (properties)
+        2. Passing data from one component to another, (parent -> child)
+        3. parent component passes data to child, child is used in parent
+        4. useRef hook
+        5. DOM: Document Object Model
+
+    Tasks:
+        1. created two components, parent and child
+        2. parent is student, child is exam
+        3. added exam to student
+        4. passed props to exam component in student
+        5. added table to child
+        6. added multiple children to student component
+        7. added bootstrap jumbotron to showcase child component
+        8. created json array to pass to exam component in student
+        9. styled the exam component within student
+        10. added form
+        11. created ref variable to use useref
+        12. added clear text functionality
+        13. adding input focus funtionality adter text clear
+        14. added input disabling 
+        15. added input enabling
+        16. added buttons to implement same functionality
