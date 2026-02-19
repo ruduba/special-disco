@@ -11,11 +11,11 @@ import Student from './components/Student';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <App /> */}
+     <App />
     {/* <Promote/> */}
     {/* <UseEffectDemo/> */}
     {/* <PostList/> */}
-    <Student></Student>
+    {/* <Student></Student> */}
   </React.StrictMode>
 );
 
