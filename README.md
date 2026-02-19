@@ -393,3 +393,16 @@
         14. added input disabling 
         15. added input enabling
         16. added buttons to implement same functionality
+
+## Module 11
+### 19th Feb, 2026
+    Notes:
+        1. We have the names of the customers in the form of json data
+        2. json data is local on our system or
+        3. json file is on remote server, which can be fetched
+        4. filter() and includes() is used
+    Tasks:
+        1. created dummy json data
+        2. Added search functionality in App.js
+        3. used filter, includes, toLowercase
+        4. filtering works by checking for exact matches
