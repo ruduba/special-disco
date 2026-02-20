@@ -406,3 +406,19 @@
         2. Added search functionality in App.js
         3. used filter, includes, toLowercase
         4. filtering works by checking for exact matches
+
+## Module 12
+### 20th Feb, 2026
+    Notes:
+        1. Useform hook
+        2. form to login to website etc
+        3. validation, submission
+    Tasks:
+        1. created new react application called flipkart
+        2. created new folder called components under src folder
+        3. created new component called LoginForm.js under components folder
+        4. implemented the useForm Hook
+        5. created form
+        6. added email and password inputs 
+        7. added email validation with regex
+        8. added submission handling
