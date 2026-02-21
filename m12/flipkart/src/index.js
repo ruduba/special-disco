@@ -4,13 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import LoginForm from './components/Loginform';
+import Shopping from './components/Shopping';
+import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <BrowserRouter>
     {/* <App /> */}
-    <LoginForm />
-  </React.StrictMode>
+    {/* <LoginForm /> */}
+    <Shopping/>
+  </BrowserRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
