@@ -422,3 +422,26 @@
         6. added email and password inputs 
         7. added email validation with regex
         8. added submission handling
+
+### 21st Feb, 2026
+    Tasks: 
+        1. added password validation
+        2. added error handling for email and form
+        3. displayed submitted username and email in user greeting
+        4. added styling to component using bootstrap
+
+## Module 13
+### 21st Feb, 2026
+    Notes:
+        1. Routing
+        2. SPA: Single page application
+        3. One page has many components, shown on a single html page
+        4. installing react router dom
+        5. route is the the suffix to the url
+    Tasks: 
+        1. Created new components (About, products, Contact)
+        2. create component called shopping, and create a navigation in this component
+        3. Added routing from shopping component to all other components
+        4. added navbar inside header
+        5. used bootstrap styling
+        6. added images
