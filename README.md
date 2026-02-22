@@ -445,3 +445,28 @@
         4. added navbar inside header
         5. used bootstrap styling
         6. added images
+
+## Module 14
+### 22nd Feb, 2026
+    Notes:
+        1. Component reusability helps reduce code duplication
+        2. Conditional rendering is used to show or hide UI elements
+        3. Boolean values can control UI behavior
+        4. Props can be used to pass flags or conditions
+        5. Clean UI improves user experience
+    Tasks:
+        1. Revised existing React components
+        2. Added conditional rendering using boolean values
+        3. Created a toggle button to show/hide content
+        4. Passed props to control component visibility
+        5. Added basic Bootstrap styling to buttons and containers
+        6. Tested UI behavior for different conditions
+
+
+
+
+
+
+
+
+
