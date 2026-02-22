@@ -446,7 +446,6 @@
         5. used bootstrap styling
         6. added images
 
-## Module 14
 ### 22nd Feb, 2026
     Notes:
         1. Component reusability helps reduce code duplication
