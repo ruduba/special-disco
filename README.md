@@ -492,8 +492,6 @@
         3. Went through routing setup and navigation components
         4. Checked form validation and submission logic
         5. Reviewed Bootstrap classes used across the project
-        6. Refactored minor code for readability
-        7. Re-ran the application to ensure existing features work correctly
 
 
 
