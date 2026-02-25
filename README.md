@@ -461,7 +461,7 @@
         5. Added basic Bootstrap styling to buttons and containers
         6. Tested UI behavior for different conditions
 
-### 23nd Feb, 2026
+### 23rd Feb, 2026
     Notes:
         1. Revision helps reinforce previously learned concepts
         2. React follows component-based architecture
@@ -479,7 +479,7 @@
         7. Re-ran the application to ensure existing features work correctly
 
 
-### 24nd Feb, 2026
+### 24th Feb, 2026
     Notes:
         1. React uses a unidirectional data flow
         2. State updates trigger re-rendering
@@ -493,7 +493,20 @@
         4. Checked form validation and submission logic
         5. Reviewed Bootstrap classes used across the project
 
-
+### 25th Feb, 2026
+    Notes:
+        1. Breaking features into smaller components improves readability
+        2. Reusability reduces future development effort
+        3. Consistent naming conventions make code easier to understand
+        4. State should be kept minimal and lifted only when required
+        5. UI responsiveness depends on clean layout and styling
+    Tasks:
+        1. Reviewed component naming and folder organization
+        2. Revisited previously written JSX for readability
+        3. Checked state placement across components
+        4. Reviewed prop usage and data flow between components
+        5. Analyzed UI layout and Bootstrap usage
+        6. Noted areas for future improvement and optimization
 
 
 
