@@ -508,5 +508,12 @@
         5. Analyzed UI layout and Bootstrap usage
         6. Noted areas for future improvement and optimization
 
-
+### 26th Feb, 2026
+    Tasks:
+        1. Completed Week 1 quizzes
+        2. Reviewed answers and analyzed mistakes
+        3. Revisited Week 1 assignment requirements
+        4. Broke assignment into smaller logical steps
+        5. Created a structured game plan to solve the assignment
+        6. Identified concepts required for implementation
 
