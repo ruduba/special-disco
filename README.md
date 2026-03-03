@@ -517,3 +517,62 @@
         5. Created a structured game plan to solve the assignment
         6. Identified concepts required for implementation
 
+
+# Android App Development with Kotlin Essentials
+
+## Module 1
+### 3rd March, 2026
+    Notes:
+        - Kotin setup
+        - Kotlin syntax
+            1. Comments
+                - Single line //
+                - Multiline /* */
+            2. .kt -> extenstion
+            3. fun main() -> fun declares function
+        - Kotlin Features
+            1. Statically Typed
+            2. Object Oriented
+            3. Concise
+            4. Interoperable with Java
+            5. Higher Performance and Fast Compilation time
+            6. Kotlin null safety: NullPointerException - an error when code tries to access an object with a null reference
+                                    Every variable is non null by default, use ? to say the variable can be null
+        - Variables (not required to explicitly specify)
+            1. refers to m/m location
+            2. store data
+                - var - mutable
+                - val - immutable
+            3. Rules
+                - contain letters, digits, underscores and dollar signs
+                - name should start with letter
+                - name can begin with $ and _
+                - names are case sensitive
+                - names should start with a lowercase lettter and it cannot contain whitespace
+                - reserved words cannot be used as names
+        - Data Types
+            - Primitive
+                1. number (byte 8, short 16, Int 32, Long 64, Float 32, Double 64)
+                2. char
+                3. bool
+            - Ref types
+                1. String //immutable
+                2. Array 
+                    - arrayOf
+                    - Array() constructor
+        - Operators
+        - kotlin playground
+        - kotlin gdb online
+
+
+    Tasks:
+        - install ide (eclipse)
+        - create kotlin project
+        - create hello world program
+        - create program prints a string
+        - wap to see diff bw print and println
+        - wap to see how null ptr exception occurs, and how to handle default non nulls
+        - wap to see how implicit and explicit variable declarations work
+        - wap to declare and define var/val
+        - wap to display variables
+        - wap to see diff datatypes
