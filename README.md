@@ -564,7 +564,6 @@
         - kotlin playground
         - kotlin gdb online
 
-
     Tasks:
         - install ide (eclipse)
         - create kotlin project
@@ -576,3 +575,29 @@
         - wap to declare and define var/val
         - wap to display variables
         - wap to see diff datatypes
+
+### 4th March, 2026
+    Notes:
+        - Special symbols that perform special operations on operands
+        - Types
+            - Arithmetic
+                - +, -, *, /, %
+            - Relational
+                - >, <, <=, >=, ==, !=
+            - Logical
+                - &&, ||, !
+            - Bitwise
+                - shl, shr, ushr, and, or, xor, inv
+            - Unary
+                - +, -, ++, --, !
+            - Assignment
+                - +=, -=, *=, /=, %=
+    Tasks:
+        - wap to demo arithmetic operators
+        - wap to demo relational operators
+        - wap to demo logical operators
+        - wap to demo bitwise operators
+        - wap to demo unary operators
+        - wap to demo assignment operators
+        - Finished quiz 9
+        - Finished quiz 10
