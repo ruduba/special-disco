@@ -601,3 +601,28 @@
         - wap to demo assignment operators
         - Finished quiz 9
         - Finished quiz 10
+
+### 5th March, 2026
+    Notes:
+        - Overview of Kotlin control flow
+        - Conditional statements
+            - if, if else, if else if ladder, nested if
+        - when expression (replaces switch)
+            - as an expression
+            - helps to optimize code without using ifelseif ladder
+        - Looping structures
+        - break and continue
+        - how to take user input using readLine()!!, take string input and convert to whichever type
+        - in checks range
+        - while loop: keeps executing if contiditon is true
+    Tasks:
+        - wap to show if else
+        - wap to show if else if ladder
+        - wap to show if nested
+        - wap to show when
+        - wap to show for using range, step, downto
+        - wap to show for in iteration, with index property, library function
+        - wap to show iteration through string
+        - wap to iterate through collection
+        - wap to show do while loop
+        - break and continue with labels
